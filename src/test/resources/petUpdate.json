@@ -1,0 +1,18 @@
+{
+  "id": 512,
+  "category": {
+    "id": 2,
+    "name": "Dog"
+  },
+  "name": "Anakin",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "Stronger than others"
+    }
+  ],
+  "status": "available"
+}
